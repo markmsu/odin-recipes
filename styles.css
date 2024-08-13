@@ -1,0 +1,19 @@
+h1 {
+    color: orange;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style:italic;
+    
+}
+
+*{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: grey;
+}
+
+.boomn-rpage {
+    text-align: left;
+    color: orange;
+    
+}
